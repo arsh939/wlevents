@@ -56,6 +56,7 @@
   "qb-crypto:server:GetRebootState",
   "police:server:UpdateCurrentCops",
   "snipe-menu:server:playerLoaded",
-  "qb-crypto:server:FetchWorth"
+  "qb-crypto:server:FetchWorth",
+  "__ox_cb_jim-mechanic:callback:checkDefVehStats"
   
 ]
