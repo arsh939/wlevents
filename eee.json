@@ -58,6 +58,7 @@
   "police:server:UpdateCurrentCops",
   "snipe-menu:server:playerLoaded",
   "qb-crypto:server:FetchWorth",
-  "__ox_cb_jim-mechanic:callback:checkDefVehStats"
+  "__ox_cb_jim-mechanic:callback:checkDefVehStats",
+  "wasabi_crutch:updateCrutch"
   
 ]
