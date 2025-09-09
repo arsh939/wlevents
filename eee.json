@@ -11,5 +11,5 @@
   "__ox_cb_projectx-storerobbery-fm:server:CheckIfActive",
   "rep-weed:server:checkDry",
   "jim-mechanic:server:toggleItem",
-  
+  "InteractSound_SV:PlayOnSource"
 ]
