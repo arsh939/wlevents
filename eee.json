@@ -8,5 +8,7 @@
   "wasabi_crutch:giveCrutch",
   "jim-mechanic:server:loadStatus",
   "burglary:server:CreatePeds",
-  "__ox_cb_projectx-storerobbery-fm:server:CheckIfActive"
+  "__ox_cb_projectx-storerobbery-fm:server:CheckIfActive",
+  "rep-weed:server:checkDry",
+  
 ]
