@@ -39,6 +39,8 @@
   "gg_gopostal:server:requestActiveResources",
   "gg_taxijob:server:requestActiveResources",
   "wasabi_ambulance:logDeath",
-  "wasabi_crutch:updateChair"
+  "wasabi_crutch:updateChair",
+  "__ox_cb_jim-mechanic:callback:checkVehicleOwner",
+  "jim-mechanic:server:updateVehicle"
   
 ]
