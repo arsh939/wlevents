@@ -43,6 +43,12 @@
   "wasabi_crutch:updateChair",
   "__ox_cb_jim-mechanic:callback:checkVehicleOwner",
   "jim-mechanic:server:updateVehicle",
-  "__ox_cb_jim-mechanic:server:GetStatus"
+  "__ox_cb_jim-mechanic:server:GetStatus",
+  "projectx-fleecabankrobbery:server:SendFleecaNames",
+  "wasabi_ambulance:setDeathStatus",
+  "__ox_cb_projectx-storerobbery-fm:server:setupDoors",
+  "__ox_cb_projectx-storerobbery-fm:server:setupSteps",
+  "__ox_cb_projectx-fleecabankrobbery:server:setupTasks",
+  "__ox_cb_projectx-vangelicoheist:server:CheckIfActive"
   
 ]
