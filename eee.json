@@ -2,4 +2,8 @@
   "playerDropped",
   "qbx_medical:server:onPlayerLaststand",
   "QBCore:Server:OnPlayerLoaded",
+  "jim-mechanic:server:updateVehicleStatus",
+  "baseevents:enteredVehicle",
+  "baseevents:leftVehicle",
+  "wasabi_crutch:giveCrutch"
 ]
