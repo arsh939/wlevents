@@ -49,6 +49,13 @@
   "__ox_cb_projectx-storerobbery-fm:server:setupDoors",
   "__ox_cb_projectx-storerobbery-fm:server:setupSteps",
   "__ox_cb_projectx-fleecabankrobbery:server:setupTasks",
-  "__ox_cb_projectx-vangelicoheist:server:CheckIfActive"
+  "__ox_cb_projectx-vangelicoheist:server:CheckIfActive",
+  "utils:TriggerCallback",
+  "__ox_cb_jim-jobgarage:callback:GetAuthEvent",
+  "__ox_cb_kevin-recyclers:server:getRecyclers",
+  "qb-crypto:server:GetRebootState",
+  "police:server:UpdateCurrentCops",
+  "snipe-menu:server:playerLoaded",
+  "qb-crypto:server:FetchWorth"
   
 ]
