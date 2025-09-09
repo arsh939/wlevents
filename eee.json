@@ -37,6 +37,8 @@
   "__ox_cb_projectx-storerobbery-fm:server:setupTasks",
   "gg_garbagejob:server:requestActiveResources",
   "gg_gopostal:server:requestActiveResources",
-  "gg_taxijob:server:requestActiveResources"
+  "gg_taxijob:server:requestActiveResources",
+  "wasabi_ambulance:logDeath",
+  "wasabi_crutch:updateChair"
   
 ]
