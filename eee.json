@@ -41,6 +41,7 @@
   "wasabi_ambulance:logDeath",
   "wasabi_crutch:updateChair",
   "__ox_cb_jim-mechanic:callback:checkVehicleOwner",
-  "jim-mechanic:server:updateVehicle"
+  "jim-mechanic:server:updateVehicle",
+  "__ox_cb_jim-mechanic:server:GetStatus"
   
 ]
