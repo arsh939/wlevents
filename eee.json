@@ -1,3 +1,4 @@
 [
   "playerDropped",
+  "qbx_medical:server:onPlayerLaststand",
 ]
