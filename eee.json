@@ -11,6 +11,7 @@
   "__ox_cb_projectx-storerobbery-fm:server:CheckIfActive",
   "rep-weed:server:checkDry",
   "jim-mechanic:server:toggleItem",
+  "jim-consumables:server:toggleItem",
   "InteractSound_SV:PlayOnSource",
   "jim-mechanic:server:playSound",
   "__ox_cb_jim-closedshops:client:GetPedList",
