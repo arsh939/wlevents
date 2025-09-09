@@ -6,5 +6,7 @@
   "baseevents:enteredVehicle",
   "baseevents:leftVehicle",
   "wasabi_crutch:giveCrutch",
-  "jim-mechanic:server:loadStatus"
+  "jim-mechanic:server:loadStatus",
+  "burglary:server:CreatePeds",
+  "__ox_cb_projectx-storerobbery-fm:server:CheckIfActive"
 ]
