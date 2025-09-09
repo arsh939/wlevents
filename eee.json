@@ -35,5 +35,8 @@
   "__ox_cb_projectx-fleecabankrobbery:server:CheckIfActive",
   "__ox_cb_projectx-storerobbery-fm:server:setupExtraSteps",
   "__ox_cb_projectx-storerobbery-fm:server:setupTasks",
+  "gg_garbagejob:server:requestActiveResources",
+  "gg_gopostal:server:requestActiveResources",
+  "gg_taxijob:server:requestActiveResources"
   
 ]
