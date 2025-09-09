@@ -1,4 +1,5 @@
 [
   "playerDropped",
   "qbx_medical:server:onPlayerLaststand",
+  "QBCore:Server:OnPlayerLoaded",
 ]
