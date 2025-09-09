@@ -12,6 +12,7 @@
   "rep-weed:server:checkDry",
   "jim-mechanic:server:toggleItem",
   "jim-consumables:server:toggleItem",
+  "jim-closedshops:server:toggleItem",
   "InteractSound_SV:PlayOnSource",
   "jim-mechanic:server:playSound",
   "__ox_cb_jim-closedshops:client:GetPedList",
