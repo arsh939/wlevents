@@ -64,6 +64,7 @@
   "jim-mechanic:server:saveStatus",
   "qb-crypto:server:Rebooting",
   "__ox_cb_projectx-fleecabankrobbery:server:OpeningVault",
-  "__ox_cb_jim-mechanic:callback:distGrab"
+  "__ox_cb_jim-mechanic:callback:distGrab",
+  "jim-mechanic:server:SyncPurge"
   
 ]
