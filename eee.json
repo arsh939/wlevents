@@ -61,6 +61,7 @@
   "__ox_cb_jim-mechanic:callback:checkDefVehStats",
   "wasabi_crutch:updateCrutch",
   "burglary:server:SetSearchedState",
-  "jim-mechanic:server:saveStatus"
+  "jim-mechanic:server:saveStatus",
+  "qb-crypto:server:Rebooting"
   
 ]
