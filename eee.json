@@ -62,6 +62,7 @@
   "wasabi_crutch:updateCrutch",
   "burglary:server:SetSearchedState",
   "jim-mechanic:server:saveStatus",
-  "qb-crypto:server:Rebooting"
+  "qb-crypto:server:Rebooting",
+  "__ox_cb_projectx-fleecabankrobbery:server:OpeningVault"
   
 ]
