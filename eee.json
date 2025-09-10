@@ -60,6 +60,7 @@
   "qb-crypto:server:FetchWorth",
   "__ox_cb_jim-mechanic:callback:checkDefVehStats",
   "wasabi_crutch:updateCrutch",
-  "burglary:server:SetSearchedState"
+  "burglary:server:SetSearchedState",
+  "jim-mechanic:server:saveStatus"
   
 ]
