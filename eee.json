@@ -59,6 +59,7 @@
   "snipe-menu:server:playerLoaded",
   "qb-crypto:server:FetchWorth",
   "__ox_cb_jim-mechanic:callback:checkDefVehStats",
-  "wasabi_crutch:updateCrutch"
+  "wasabi_crutch:updateCrutch",
+  "burglary:server:SetSearchedState"
   
 ]
