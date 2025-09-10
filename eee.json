@@ -66,6 +66,7 @@
   "__ox_cb_projectx-fleecabankrobbery:server:OpeningVault",
   "__ox_cb_jim-mechanic:callback:distGrab",
   "jim-mechanic:server:SyncPurge",
-  "jim-mechanic:server:updateDefVehStats"
+  "jim-mechanic:server:updateDefVehStats",
+  "police:server:changeDuty"
   
 ]
