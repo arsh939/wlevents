@@ -67,6 +67,9 @@
   "__ox_cb_jim-mechanic:callback:distGrab",
   "jim-mechanic:server:SyncPurge",
   "jim-mechanic:server:updateDefVehStats",
-  "police:server:changeDuty"
+  "police:server:changeDuty",
+  "__ox_cb_gg_garbagejob:server:nearby_worker",
+  "jim-mechanic:server:UpdateDrivingDistance",
+  "__ox_cb_jim-closedshops:server:GetStoreStashItems"
   
 ]
