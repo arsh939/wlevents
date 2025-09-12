@@ -71,6 +71,7 @@
   "__ox_cb_gg_garbagejob:server:nearby_worker",
   "jim-mechanic:server:UpdateDrivingDistance",
   "__ox_cb_jim-closedshops:server:GetStoreStashItems",
-  "jim-mechanic:server:checkWax"
+  "jim-mechanic:server:checkWax",
+  "police:server:SetHandcuffStatus"
   
 ]
