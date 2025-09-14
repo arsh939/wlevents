@@ -72,6 +72,7 @@
   "jim-mechanic:server:UpdateDrivingDistance",
   "__ox_cb_jim-closedshops:server:GetStoreStashItems",
   "jim-mechanic:server:checkWax",
-  "police:server:SetHandcuffStatus"
+  "police:server:SetHandcuffStatus",
+  "jim-mechanic:clearAuthToken"
   
 ]
