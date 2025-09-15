@@ -74,6 +74,7 @@
   "jim-mechanic:server:checkWax",
   "police:server:SetHandcuffStatus",
   "jim-mechanic:clearAuthToken",
-  "__ox_cb_gg_taxijob:server:getRouteData"
+  "__ox_cb_gg_taxijob:server:getRouteData",
+  "hospital:server:resetHungerThirst"
   
 ]
