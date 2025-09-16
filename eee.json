@@ -75,6 +75,7 @@
   "police:server:SetHandcuffStatus",
   "jim-mechanic:clearAuthToken",
   "__ox_cb_gg_taxijob:server:getRouteData",
-  "hospital:server:resetHungerThirst"
+  "hospital:server:resetHungerThirst",
+  "__ox_cb_jim-mechanic:server:getMaxCarryCraft"
   
 ]
