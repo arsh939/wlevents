@@ -76,6 +76,7 @@
   "jim-mechanic:clearAuthToken",
   "__ox_cb_gg_taxijob:server:getRouteData",
   "hospital:server:resetHungerThirst",
-  "__ox_cb_jim-mechanic:server:getMaxCarryCraft"
+  "__ox_cb_jim-mechanic:server:getMaxCarryCraft",
+  "hospital:server:resetHungerThirst2"
   
 ]
