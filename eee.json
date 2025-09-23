@@ -77,6 +77,6 @@
   "__ox_cb_gg_taxijob:server:getRouteData",
   "hospital:server:resetHungerThirst",
   "__ox_cb_jim-mechanic:server:getMaxCarryCraft",
-  "hospital:server:resetHungerThirst2"
+  "wasabi_crutch:sendObject"
   
 ]
