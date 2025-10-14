@@ -77,6 +77,21 @@
   "__ox_cb_gg_taxijob:server:getRouteData",
   "hospital:server:resetHungerThirst",
   "__ox_cb_jim-mechanic:server:getMaxCarryCraft",
-  "wasabi_crutch:sendObject"
+  "wasabi_crutch:sendObject",
+  "burglary:server:SetChanceValue",
+  "__ox_cb_rep-weed:callback:bossNPC",
+  "__ox_cb_jim-mechanic:server:GetStashItems",
+  "burglary:server:SetLoadedState",
+  "burglary:server:ResetPlayerBucket",
+  "burglary:server:LoadRep",
+  "__ox_cb_rep-weed:callback:getConfigTaco",
+  "17mov_constructionJob:deleteBlockFromSpawn",
+  "burglary:server:RemovePickupProp",
+  "jim-mechanic:server:preview",
+  "kevin-recyclers:server:setPalletBusy",
+  "burglary:server:SetInsideCount",
+  "burglary:server:RespawnEntities",
+  "burglary:server:SetBeepState",
+  "burglary:server:RemoveItem"
   
 ]
