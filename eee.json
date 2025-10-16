@@ -92,6 +92,8 @@
   "burglary:server:SetInsideCount",
   "burglary:server:RespawnEntities",
   "burglary:server:SetBeepState",
-  "burglary:server:RemoveItem"
+  "burglary:server:RemoveItem",
+  "burglary:server:SetUnlockedState",
+  "burglary:server:ResetEnterZone"
   
 ]
